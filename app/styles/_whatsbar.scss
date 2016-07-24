@@ -64,12 +64,12 @@ body {
     transition: height .35s, width .35s;
     vertical-align: middle;
     white-space: nowrap;
-    width: 75px;
+    width: 90px;
   }
   .whatsbar a:focus .whatsbar__texts,
   .whatsbar a:hover .whatsbar__texts {
     height: 40px;
-    width: 205px;
+    width: 200px;
   }
   .whatsbar__extra {
     display: inline-block;
