@@ -61,7 +61,7 @@
     "widget"
   ],
   "license": "MIT",
-  "main": "app/index.html",
+  "main": "app/styles/whatsbar.scss",
   "name": "whatsbar",
   "repository": {
     "type": "git",

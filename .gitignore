@@ -1,5 +1,8 @@
-node_modules
-dist
 .tmp
 bower_components
+dist/*
+!dist/styles
+dist/styles/*
+!dist/styles/whatsbar.min.css
+node_modules
 test/bower_components
