@@ -1,10 +1,9 @@
 {
   "authors": [
-    "Giovanni Pires da Silva <gio@bombin8.com.br>"
+    "Giovanni Pires da Silva <gio@bombin8.com.br> (http://www.bombin8.com.br)"
   ],
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
-    "modernizr": "~2.8.1",
     "font-awesome": "fontawesome#^4.6.3"
   },
   "description": "A WhatsApp floating bar button to your website.",
@@ -14,11 +13,12 @@
   },
   "homepage": "https://github.com/giovannipds/whatsbar#readme",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "**/*",
+    "!dist",
+    "dist/*",
+    "!dist/styles",
+    "dist/styles/*",
+    "!dist/styles/whatsbar.min.css"
   ],
   "keywords": [
     "whatsapp",
@@ -46,5 +46,9 @@
         "fonts/*"
       ]
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/giovannipds/whatsbar.git"
   }
 }
