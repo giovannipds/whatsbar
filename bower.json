@@ -40,6 +40,11 @@
         "assets/fonts/bootstrap/*",
         "assets/javascripts/bootstrap.js"
       ]
+    },
+    "font-awesome": {
+      "main": [
+        "fonts/*"
+      ]
     }
   }
 }

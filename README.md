@@ -9,3 +9,6 @@ https://giovannipds.github.io/whatsbar/
 
 ## Serve
 `gulp serve`.
+
+## Build
+`gulp build`. Put the build on the branch *gh-pages*.
