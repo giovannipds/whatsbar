@@ -12,14 +12,6 @@
     "mocha": "^2.5.3"
   },
   "homepage": "https://github.com/giovannipds/whatsbar#readme",
-  "ignore": [
-    "**/*",
-    "!dist",
-    "dist/*",
-    "!dist/styles",
-    "dist/styles/*",
-    "!dist/styles/whatsbar.min.css"
-  ],
   "keywords": [
     "whatsapp",
     "bar",
